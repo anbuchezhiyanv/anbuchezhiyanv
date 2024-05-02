@@ -30,6 +30,6 @@ Feel free to explore my repositories for more projects and contributions!
 ## Get in Touch
 
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anbuchezhiyan/)
-- [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](anbuchezhiyanv2003@gmail.com)
+- Email: anbuchezhiyanv2003@gmail.com
 
 Looking forward to connecting with you! 😊
