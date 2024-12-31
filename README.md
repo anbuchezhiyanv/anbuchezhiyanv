@@ -13,7 +13,17 @@ Computer Science and Engineering Student
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anbuchezhiyanv) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/__anbu___._?igsh=MWE4c2oxcWxlOTdtMA==)
   [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/Anbuchezhiyanv)
 ## Skills
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-boot" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angular" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux.png" alt="linux" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap" />
+
 
 ## Projects
 
