@@ -5,8 +5,8 @@ Computer Science and Engineering Student
 
 ## About Me
 
-- 🎓 Currently pursuing my Bachelor's degree in Computer Science and Engineering
-- 💻 Proficiency in HTML, CSS, JavaScript, and Java
+- 🎓 Recent Graduate with a Bachelor's degree in Computer Science and Engineering
+- 💻 Proficiency in Java, Spring Boot, Angular, HTML, CSS, JavaScript, Bootstrap, and Linux
 - 🌱  Always eager to learn and explore new technologies
 - 📞 Reach me:
   <br/>
@@ -21,7 +21,7 @@ Here are a few projects I've worked on:
 - [Nostra](https://nostraecomerce-60028970174.development.catalystserverless.in/app/index.html):
  I developed 'Nostra', an e-commerce website for fashion accessories, using HTML, CSS, and JavaScript. My responsibilities included creating the search bar feature and improving user experience and navigation.
 - [Booksky](https://booksky-60028970174.development.catalystserverless.in/app/index.html):
- I created Booksky, a book reading website, using HTML, CSS, and JavaScript with seamless user interaction and feature integration.
+ I created Booksky, a book-reading website, using HTML, CSS, and JavaScript with seamless user interaction and feature integration.
 - [Analog Clock](https://analog-clock-60028970174.development.catalystserverless.in/app/index.html):
  I made an 'Analog Clock' project using HTML, CSS, and JavaScript. It includes both analog and digital clock functions, showcasing my front-end development and JavaScript skills.
 
